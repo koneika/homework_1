@@ -1,0 +1,14 @@
+﻿Build started 12/9/2023 5:50:16 PM.
+     1>Project "C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\homework_1\homework_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "main (8).cpp"
+         main (8).cpp
+     1>c:\users\ssd-pass-slava\documents\visual studio 2012\projects\homework_1\homework_1\main (8).cpp(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\Debug\homework_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\Debug\homework_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\Debug\homework_1.lib" /MACHINE:X86 "Debug\main (8).obj"
+         homework_1.vcxproj -> C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\Debug\homework_1.exe
+     1>Done Building Project "C:\Users\ssd-pass-slava\Documents\Visual Studio 2012\Projects\homework_1\homework_1\homework_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.85
